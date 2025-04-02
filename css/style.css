@@ -9,7 +9,7 @@ body {
     color: #333;
 }
 .hero {
-    background: url('hotel-hero.jpg') no-repeat center center/cover;
+    background: url('https://cf.bstatic.com/xdata/images/hotel/max1024x768/273037851.jpg?k=591966c5952dc2d8a72b8719896431824a95007936bd9b913e9e83b80a81ce28&o=&hp=1') no-repeat center center/cover;
     height: 80vh;
     display: flex;
     align-items: center;
